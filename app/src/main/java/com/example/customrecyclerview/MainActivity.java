@@ -33,16 +33,50 @@ public class MainActivity extends AppCompatActivity {
         abcd2List = new ArrayList<>();
 
         //Adding Data into ArrayList
-        abcd2List.add(new abcd2("Todd Miller",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Bradley Matthews",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Harley Gibson",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Gary Thompson",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Corey Williamson",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Samuel Jones",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Michael Read",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Robert Phillips",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Albert Stewart",R.drawable.ic_launcher_background));
-        abcd2List.add(new abcd2("Wayne Diaz",R.drawable.ic_launcher_background));
+        abcd2List.add(new abcd2("Oswald",R.drawable.head1));
+        abcd2List.add(new abcd2("Winnie",R.drawable.head2));
+        abcd2List.add(new abcd2("Henry",R.drawable.head3));
+        abcd2List.add(new abcd2("Daisy",R.drawable.head4));
+        abcd2List.add(new abcd2("Madame Butterfly",R.drawable.head5));
+        abcd2List.add(new abcd2("Catrina",R.drawable.head6));
+        abcd2List.add(new abcd2("Egbert",R.drawable.head7));
+        abcd2List.add(new abcd2("Leo",R.drawable.head8));
+        abcd2List.add(new abcd2("Steve Tree",R.drawable.head9));
+        abcd2List.add(new abcd2("Jhonny Snowman",R.drawable.head10));
+
+        abcd2List.add(new abcd2("Oswald",R.drawable.head1));
+        abcd2List.add(new abcd2("Winnie",R.drawable.head2));
+        abcd2List.add(new abcd2("Henry",R.drawable.head3));
+        abcd2List.add(new abcd2("Daisy",R.drawable.head4));
+        abcd2List.add(new abcd2("Madame Butterfly",R.drawable.head5));
+        abcd2List.add(new abcd2("Catrina",R.drawable.head6));
+        abcd2List.add(new abcd2("Egbert",R.drawable.head7));
+        abcd2List.add(new abcd2("Leo",R.drawable.head8));
+        abcd2List.add(new abcd2("Steve Tree",R.drawable.head9));
+        abcd2List.add(new abcd2("Jhonny Snowman",R.drawable.head10));
+
+        abcd2List.add(new abcd2("Oswald",R.drawable.head1));
+        abcd2List.add(new abcd2("Winnie",R.drawable.head2));
+        abcd2List.add(new abcd2("Henry",R.drawable.head3));
+        abcd2List.add(new abcd2("Daisy",R.drawable.head4));
+        abcd2List.add(new abcd2("Madame Butterfly",R.drawable.head5));
+        abcd2List.add(new abcd2("Catrina",R.drawable.head6));
+        abcd2List.add(new abcd2("Egbert",R.drawable.head7));
+        abcd2List.add(new abcd2("Leo",R.drawable.head8));
+        abcd2List.add(new abcd2("Steve Tree",R.drawable.head9));
+        abcd2List.add(new abcd2("Jhonny Snowman",R.drawable.head10));
+
+        abcd2List.add(new abcd2("Oswald",R.drawable.head1));
+        abcd2List.add(new abcd2("Winnie",R.drawable.head2));
+        abcd2List.add(new abcd2("Henry",R.drawable.head3));
+        abcd2List.add(new abcd2("Daisy",R.drawable.head4));
+        abcd2List.add(new abcd2("Madame Butterfly",R.drawable.head5));
+        abcd2List.add(new abcd2("Catrina",R.drawable.head6));
+        abcd2List.add(new abcd2("Egbert",R.drawable.head7));
+        abcd2List.add(new abcd2("Leo",R.drawable.head8));
+        abcd2List.add(new abcd2("Steve Tree",R.drawable.head9));
+        abcd2List.add(new abcd2("Jhonny Snowman",R.drawable.head10));
+
 
         mAdapter = new ListAdapter(this, abcd2List);
 
